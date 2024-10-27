@@ -1,0 +1,97 @@
+{
+    "game:tabname-moremolds": "YABBA Forge",
+
+    "block-platemold-raw": "Форма для пластины (необож.)",
+    "block-platemold-burned": "Форма для пластины",
+    
+    "block-handsawmold-raw": "Форма для лезвия ручной пилы (необож.)",
+    "block-handsawmold-burned": "Форма для лезвия ручной пилы",
+
+    "block-chutesectionmold-raw": "Форма для 4-х желобов (необож.)",
+    "block-chutesectionmold-burned": "Форма для 4-х желобов",
+
+    "block-five_platemold-raw": "Форма для 5-ти пластин (необож.)",
+    "block-five_platemold-burned": "Форма для 5-ти пластин",
+
+    "block-knifemold-raw": "Форма для 2-х лезвий ножа (необож.)",
+    "block-knifemold-burned": "Форма для 2-х лезвий ножа",
+
+    "block-sheetmold-raw": "Форма для декоративного листа (необож.)",
+    "block-sheetmold-burned": "Форма для декоративного листа",
+
+    "block-chiselmold-raw": "Форма для 2-х зубил (необож.)",
+    "block-chiselmold-burned": "Форма для 2-х зубил",
+
+    "block-puckmold-raw": "Форма для 16-ти шайб (необож.)",
+    "block-puckmold-burned": "Форма для 16-ти шайб",
+    "moremolds:block-puckmold-handbooktitle": "Форма для металлических шайб",
+    "moremolds:block-puckmold-handbooktext": "Представляем металлическую шайбу, революционное решение для хранения металлов в Vintage Story! Эта гениально спроектированная шайба позволяет легко и эффективно хранить металл. Просто расплавьте шайбу в тигле - и можете использовать металл как вам угодно! Удобная форма и компактный размер шайб делают хранение лёгким и компактным! С металлическими шайбами вы попрощаетесь с огромными стопками слитков, примите будущее хранения металлов с помощью шайб в Vintage Story!",
+    
+    "block-arrowheadmold-raw": "Raw Arrowhead Mold",
+    "block-arrowheadmold-burned": "Arrowhead Mold (x2)",
+
+    "block-hoopmold-raw": "Raw Hoop Mold",
+    "block-hoopmold-burned": "Hoop Mold",
+
+    "block-wrenchmold-raw": "Raw Wrench Mold",
+    "block-wrenchmold-burned": "Wrench Mold (x2)",
+
+    "block-nailsinglemold-raw": "Raw Nails and Strips Mold",
+    "block-nailsinglemold-burned": "Nails and Strips Mold (1x)",
+
+
+    "moremolds:block-chiselmold-handbooktitle": "Raw Chisel Mold",
+    "moremolds:block-chiselmold-handbooktext": "Chisel Mold (x2)",
+
+    "moremolds:block-arrowheadmold-handbooktitle": "Arrowhead Mold",
+    "moremolds:block-arrowheadmold-handbooktext": "Arrowhead",
+
+    "moremolds:block-bulk_ingotmold-raw": "12 Ingot Bulk Mold",
+    "moremolds:block-bulk_ingotmold-burned": "12 Ingot Bulk Mold",
+    "moremolds:block-bulk_ingotmold_24-burned": "24 Ingot Bulk Mold",
+
+    "moremolds:block-bulk_ingotmold_24-handbooktitle": "24 Ingot Bulk Mold",
+    "moremolds:block-bulk_ingotmold_24-handbooktext": "Introducing the Bulk Ingot Mold, a game-changer in Vintage Story! Crafted by combining two 12-ingot bulk molds and five iron plates, this mighty mold revolutionizes metal production. With its capacity to create 24 metal ingots at once, efficiency soars and productivity skyrockets. Say goodbye to tedious individual ingot crafting and welcome the power of mass production. Unleash your industrial prowess with the Bulk Ingot Mold and forge a thriving empire!",
+
+    "item-puck-copper": "Copper Puck",
+    "item-puck-tinbronze": "Tin Bronze Puck",
+    "item-puck-bismuthbronze": "Bismuth Bronze Puck",
+    "item-puck-blackbronze": "Black Bronze Puck",
+    "item-puck-gold": "Golden Puck",
+    "item-puck-silver": "Silver Puck",
+    "item-puck-iron": "Iron Puck",
+    "item-puck-meteoriciron": "Meteoric Iron Puck",
+    "item-puck-steel": "Steel Puck",
+    "moremolds:item-puck-handbooktitle": "Metal Puck",
+    "moremolds:item-puck-handbooktext": "Introducing the Metal Puck, a revolutionary storage solution for your precious metals in Vintage Story! This ingeniously designed puck allows for easy and efficient storage of metal ingots. Simply melt the Metal Puck in the crucible, and watch as it transforms into a pool of molten metal, ready for your crafting needs. Its convenient shape and compact size make storage a breeze, maximizing your inventory space. With the Metal Puck, say goodbye to bulky stacks of ingots and hello to streamlined organization. Embrace the future of metal storage and elevate your crafting experience with the Metal Puck in Vintage Story!",
+
+    "block-spearheadmold-raw": "Raw Spearhead Mold",
+    "block-spearheadmold-burned": "Spearhead Mold",
+
+
+    "mm-quickstart-title": "More Molds: Being Less Grindy",
+    "mm-quickstart-text": "<font size=22 weight=bold>Forge by FuzzyMods</font><br><font size=12 weight=bold>Previously \"More Molds\"</font><br><br><font size=20 weight=bold>Molds Available</font><br>• Metal Plate Mold<br>• Metal Sheet Mold<br>• Knife Mold<br>• Chisel Mold<br>• Chute Section<br>• <strong>Handsaw</strong><br>• (Added 1.2.5) Bulk Metal Plate Mold<br>• (Added 1.3.0) Hoop<br>• (Added 1.3.0) Wrench<br>• (Added 1.3.0) Spearhead<br>• (Added 1.4.0) Single Nail and Strip Set<br><br><font size=20 weight=bold>New Items</font><br><strong>Handsaw</strong> - Provides ability to create planks early game at reduced efficiency (4 planks per log), and also a way to create sticks from planks (4 sticks per plank).",
+
+    "item-handsaw-copper": "Copper Handsaw",
+    "item-handsaw-tinbronze": "Tin Bronze Handsaw",
+    "item-handsaw-bismuthbronze": "Bismuth Bronze Handsaw",
+    "item-handsaw-blackbronze": "Black Bronze Handsaw",
+    "item-handsaw-gold": "Golden Handsaw",
+    "item-handsaw-silver": "Silver Handsaw",
+    "item-handsaw-iron": "Iron Handsaw",
+    "item-handsaw-meteoriciron": "Meteoric Iron Handsaw",
+    "item-handsaw-steel": "Steel Handsaw",
+
+    "item-handsawblade-copper": "Copper Handsaw",
+    "item-handsawblade-tinbronze": "Tin Bronze Handsaw",
+    "item-handsawblade-bismuthbronze": "Bismuth Bronze Handsaw",
+    "item-handsawblade-blackbronze": "Black Bronze Handsaw",
+    "item-handsawblade-gold": "Golden Handsaw",
+    "item-handsawblade-silver": "Silver Handsaw",
+    "item-handsawblade-iron": "Iron Handsaw",
+    "item-handsawblade-meteoriciron": "Meteoric Iron Handsaw",
+    "item-handsawblade-steel": "Steel Handsaw",
+
+    "itemdesc-handsaw-*": "Should be in every Seraph's Toolbox. <br /><br /><strong>Uses</strong><br>• Create 4 Planks per Log<br>• Create 4 Sticks per Plank"
+
+}

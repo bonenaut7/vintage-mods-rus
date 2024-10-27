@@ -1,0 +1,6 @@
+# Folder for the mod *compiler* output
+build/
+
+# Mod *compiler* folder that gets all translations,
+#   generates json translation files and *builds* zip file
+compiler/

@@ -1,0 +1,8 @@
+{
+	"type": "theme",
+	"name": "Vintage Mods RUS",
+	"description" : "Перевод модов на русский язык для Vintage Story",
+	"authors": [],
+	"version": "%VERSION%",
+	"gameversions": [ "1.5+" ]
+}

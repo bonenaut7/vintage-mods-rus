@@ -1,0 +1,8 @@
+{
+  "block-largewindmillrotor-*": "Большой ротор ветряной мельницы",
+  "handbooktext-largewindmillrotor": "Can only have <a href=\"handbook://item-biggerwindmill:largesail\">Large Sails</a> installed on it",
+
+  "item-largesail": "Большой парус ветряной мельницы",
+  "itemdesc-largesail": "Large windmill component",
+  "handbooktext-largesail": "Can only be installed on a <a href=\"handbook://block-biggerwindmill:largewindmillrotor-north\">Large Windmill Rotor</a>"
+}
