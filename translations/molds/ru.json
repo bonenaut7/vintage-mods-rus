@@ -1,33 +1,44 @@
 {
 	"game:tabname-Molds": "Литейные формы",
-	"block-toolmold-raw-2xknife": "Форма для лезвия ножа (необож.)",
-	"block-toolmold-burned-2xknife": "Форма для лезвия ножа",
+
+	"block-toolmold-raw-2xknife": "Форма для 2-х лезвий ножа (необож.)",
+	"block-toolmold-burned-2xknife": "Форма для 2-х лезвий ножа",
 	"blockdesc-toolmold-burned-2xknife": "Для тех, кто ленится размахивать молотом",
-	"block-toolmold-raw-chisel": "Форма для зубила (необож.)",
-	"block-toolmold-burned-chisel": "Форма для зубила",
+
+	"block-toolmold-raw-chisel": "Форма для 2-х зубил (необож.)",
+	"block-toolmold-burned-chisel": "Форма для 2-х зубил",
 	"blockdesc-toolmold-burned-chisel": "Для тех, кто ленится размахивать молотом",
+
 	"block-toolmold-raw-kluch": "Форма для ключа (необож.)",
 	"block-toolmold-burned-kluch": "Форма для ключа",
 	"blockdesc-toolmold-burned-kluch": "Для тех, кто ленится размахивать молотом",
-	"block-toolmold-raw-arrow": "Форма для наконечника стрелы (необож.)",
-	"block-toolmold-burned-arrow": "Форма для наконечника стрелы",
+
+	"block-toolmold-raw-arrow": "Форма для 9-ти наконечников стрел (необож.)",
+	"block-toolmold-burned-arrow": "Форма для 9-ти наконечников стрел",
 	"blockdesc-toolmold-burned-arrow": "Для тех, кто ленится размахивать молотом",
+
 	"block-toolmold-raw-spear": "Форма для наконечника копья (необож.)",
 	"block-toolmold-burned-spear": "Форма для наконечника копья",
 	"blockdesc-toolmold-burned-spear": "Для тех, кто ленится размахивать молотом",
+
 	"block-toolmold-raw-scythe": "Форма для лезвия косы (необож.)",
 	"block-toolmold-burned-scythe": "Форма для лезвия косы",
 	"blockdesc-toolmold-burned-scythe": "Для тех, кто ленится размахивать молотом",
-	"block-toolmold-raw-1nailmold": "Форма для гвоздей и пластин (необож.)",
-	"block-toolmold-burned-1nailmold": "Форма для гвоздей и пластин",
+
+	"block-toolmold-raw-1nailmold": "Форма для 4-х гвоздей и пластин (необож.)",
+	"block-toolmold-burned-1nailmold": "Форма для 4-х гвоздей и пластин",
 	"blockdesc-toolmold-burned-1nailmold": "Для тех, кто ленится размахивать молотом",
+
 	"block-ingotmold-burned-normal": "Форма для 8-ми слитков",
 	"blockdesc-ingotmold-burned-normal": "Литье металлов в промышленных масштабах. Готовьте угли - работы выше крыши!",
+
 	"block-ingotmold-burned-mini": "Форма для 4-х слитков",
 	"blockdesc-ingotmold-burned-mini": "Вдвое больше слитков на кубический метр, какое удовольствие!",
-	"block-toolmold-raw-ring": "Форма для кольчужных звеньев (необож.)",
-	"block-toolmold-burned-ring": "Форма для кольчужных звеньев",
+
+	"block-toolmold-raw-ring": "Форма для 16-ти кольчужных звеньев (необож.)",
+	"block-toolmold-burned-ring": "Форма для 16-ти кольчужных звеньев",
 	"blockdesc-toolmold-burned-ring": "Для тех, кто ленится размахивать молотом",
+	
 	"item-singlechain-copper": "Кольчужное звено из меди",
 	"item-singlechain-tinbronze": "Кольчужное звено из оловянной бронзы",
 	"item-singlechain-bismuthbronze": "Кольчужное звено из висмутовой бронзы",
