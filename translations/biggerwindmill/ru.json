@@ -1,8 +1,8 @@
 {
   "block-largewindmillrotor-*": "Большой ротор ветряной мельницы",
-  "handbooktext-largewindmillrotor": "Can only have <a href=\"handbook://item-biggerwindmill:largesail\">Large Sails</a> installed on it",
+  "handbooktext-largewindmillrotor": "Только <a href=\"handbook://item-biggerwindmill:largesail\">Большие паруса</a> могут быть установлены на большой ротор ветряной мельницы.",
 
-  "item-largesail": "Большой парус ветряной мельницы",
-  "itemdesc-largesail": "Large windmill component",
-  "handbooktext-largesail": "Can only be installed on a <a href=\"handbook://block-biggerwindmill:largewindmillrotor-north\">Large Windmill Rotor</a>"
+  "item-largesail": "Большой парус",
+  "itemdesc-largesail": "Элемент механической энергии. Можно прикрепить к большому ротору ветряной мельницы.",
+  "handbooktext-largesail": "Может быть установлен только на <a href=\"handbook://block-biggerwindmill:largewindmillrotor-north\">Большой ротор ветряной мельницы</a>"
 }
