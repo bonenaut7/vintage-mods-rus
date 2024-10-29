@@ -1,0 +1,99 @@
+{
+  "thecritterpack:creaturegroup-hedgehog": "Лесной ежик",
+  "thecritterpack:creaturegroup-mallardduck": "Кряква",
+  "thecritterpack:creaturegroup-yak": "Як",
+  "thecritterpack:creaturegroup-chipmunk": "Бурундук",
+  "thecritterpack:creaturegroup-squirrel": "Белка",
+  "thecritterpack:creaturegroup-waxwing": "Богемский свиристель",
+  "thecritterpack:creaturegroup-crow": "Ворона",
+  "thecritterpack:creaturegroup-fieldmouse": "Полевая мышь",
+
+  "item-creature-thecritterpack:duck-male": "Кряква (самец)",
+  "item-creature-thecritterpack:duck-female": "Кряква (самка)",
+  "item-creature-thecritterpack:duck-baby": "Кряква (утенок)",
+  "item-creature-thecritterpack:waxwing_g": "Богемский свиристель",
+  "item-creature-thecritterpack:c_crow": "Ворона",
+  "item-creature-thecritterpack:fieldmus": "Полевая мышь",
+
+  "thecritterpack:item-creature-hedgehog-male": "Лесной ежик (самец)",
+  "thecritterpack:item-creature-hedgehog-female": "Лесной ежик (самка)",
+  "thecritterpack:item-creature-hedgehog-baby": "Лесной ежик (детеныш)",
+  "thecritterpack:item-dead-creature-hedgehog-male": "Мертвый лесной ежик (самец)",
+  "thecritterpack:item-dead-creature-hedgehog-female": "Мертвый лесной ежик (самка)",
+  "thecritterpack:item-dead-creature-hedgehog-baby": "Мертвый лесной ежик (детеныш)",
+  
+  "thecritterpack:item-creature-duck-male": "Кряква (самец)",
+  "thecritterpack:item-creature-duck-female": "Кряква (самка)",
+  "thecritterpack:item-creature-duck-baby": "Кряква (утенок)",
+  "thecritterpack:item-dead-creature-duck-male": "Мертвая кряква (самец)",
+  "thecritterpack:item-dead-creature-duck-female": "Мертвая кряква (самка)",
+  "thecritterpack:item-dead-creature-duck-baby": "Мертвая кряква (утенок)",
+
+  "thecritterpack:item-creature-yak-male": "Як (самец)",
+  "thecritterpack:item-creature-yak-female": "Як (самка)",
+  "thecritterpack:item-creature-yak-calf": "Як (теленок)",
+  "thecritterpack:item-dead-creature-yak-male": "Мертвый як (самец)",
+  "thecritterpack:item-dead-creature-yak-female": "Мертвый як (самка)",
+  "thecritterpack:item-dead-creature-yak-calf": "Мертвый як (теленок)",
+
+  "thecritterpack:item-creature-chipmunk-male": "Бурундук (самец)",
+  "thecritterpack:item-creature-chipmunk-female": "Бурундук (самка)",
+  "thecritterpack:item-creature-chipmunk-baby": "Бурундук (детеныш)",
+  "thecritterpack:item-dead-creature-chipmunk-male": "Мертвый бурундук (самец)",
+  "thecritterpack:item-dead-creature-chipmunk-female": "Мертвый бурундук (самка)",
+  "thecritterpack:item-dead-creature-chipmunk-baby": "Мертвый бурундук (детеныш)",
+
+  "thecritterpack:item-creature-squirrel-male-brown": "Коричневая белка (самец)",
+  "thecritterpack:item-creature-squirrel-female-brown": "Коричневая белка (самка)",
+  "thecritterpack:item-creature-squirrel-baby-brown": "Коричневый бельчонок",
+  "thecritterpack:item-dead-creature-squirrel-male-brown": "Мертвая коричневая белка (самец)",
+  "thecritterpack:item-dead-creature-squirrel-female-brown": "Мертвая коричневая белка (самка)",
+  "thecritterpack:item-dead-creature-squirrel-baby-brown": "Мертвый коричневый бельчонок",
+
+  "thecritterpack:item-creature-squirrel-male-black": "Черная белка (самец)",
+  "thecritterpack:item-creature-squirrel-female-black": "Черная белка (самка)",
+  "thecritterpack:item-creature-squirrel-baby-black": "Черный бельчонок",
+  "thecritterpack:item-dead-creature-squirrel-male-black": "Мертвая черная белка (самец)",
+  "thecritterpack:item-dead-creature-squirrel-female-black": "Мертвая черная белка (самка)",
+  "thecritterpack:item-dead-creature-squirrel-baby-black": "Мертвый черный бельчонок",
+
+  "thecritterpack:item-creature-squirrel-male-darkbrown": "Темно-коричневая белка (самец)",
+  "thecritterpack:item-creature-squirrel-female-darkbrown": "Темно-коричневая белка (самка)",
+  "thecritterpack:item-creature-squirrel-baby-darkbrown": "Темно-коричневая бельчонок",
+  "thecritterpack:item-dead-creature-squirrel-male-darkbrown": "Мертвая темно-коричневая белка (самец)",
+  "thecritterpack:item-dead-creature-squirrel-female-darkbrown": "Мертвая темно-коричневая белка (самка)",
+  "thecritterpack:item-dead-creature-squirrel-baby-darkbrown": "Мертвый темно-коричневая бельчонок",
+
+  "thecritterpack:item-creature-squirrel-male-red": "Красная белка (самец)",
+  "thecritterpack:item-creature-squirrel-female-red": "Красная белка (самка)",
+  "thecritterpack:item-creature-squirrel-baby-red": "Красный бельчонок",
+  "thecritterpack:item-dead-creature-squirrel-male-red": "Мертвая красная белка (самец)",
+  "thecritterpack:item-dead-creature-squirrel-female-red": "Мертвая красная белка (самка)",
+  "thecritterpack:item-dead-creature-squirrel-baby-red": "Мертвый красный бельчонок",
+
+  "thecritterpack:item-creature-waxwing_g": "Богемский свиристель",
+  "thecritterpack:item-creature-waxwing_f": "Богемский свиристель (летит)",
+  "thecritterpack:item-dead-creature-waxwing_g": "Мертвый богемский свиристель",
+
+  "thecritterpack:item-creature-c_crow": "Ворона",
+  "thecritterpack:item-creature-crow_flying": "Ворона (летит)",
+  "thecritterpack:item-dead-creature-c_crow": "Мертвая ворона",
+
+  "thecritterpack:item-creature-fieldmus": "Полевая мышь",
+  "thecritterpack:item-dead-creature-fieldmus": "Мертвая полевая мышь",
+
+  "thecritterpack:item-creature-crab-both": "Краб",
+  "thecritterpack:item-creature-crab-baby": "Краб (детеныш)",
+  "thecritterpack:item-dead-creature-crab-both": "Мертвый краб",
+  "thecritterpack:item-dead-creature-crab-baby": "Мертвый краб (детеныш)",
+
+  "thecritterpack:item-creature-snail-default": "Улитка",
+  "thecritterpack:item-dead-creature-snail-default": "Мертвая улитка",
+
+  "thecritterpack:item-creature-woodlouse": "Мокрица",
+  "thecritterpack:item-dead-creature-woodlouse": "Мертвая мокрица",
+
+  "thecritterpack:item-creature-house-sparrow_f": "Домовый воробей (летит)",
+
+  "thecritterpack:item-creature-robin_flying": "Зарянка (летит)"
+}
