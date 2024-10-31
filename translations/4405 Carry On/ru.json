@@ -1,0 +1,13 @@
+{
+  "blockhelp-pickup": "Поднять",
+  "drop-notice": "Вы выронили {0} {1}.",
+  "drop-notice-destroyed": "Вы выронили {0} {1} и оно было уничтожено.",
+  "drop-notice-destroyed-spill-contents": "Вы выронили {0} {1} и оно было уничтожено, проливая содержимое.",
+  "drop-notice-spill-contents": "Вы выронили {0} {1} и оно открылось, проливая содержимое.",
+  "slot-hands": "из ваших рук",
+  "slot-back": "с вашей спины",
+  "slot-shoulder": "с вашего плеча",
+  "pickup-hotkey": "CarryOn - Поднять / Положить",
+  "swap-back-hotkey": "CarryOn - Поменять местами",
+  "toggle-hotkey": "CarryOn - Вкл/Выкл взаимодействие"
+}
