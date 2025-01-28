@@ -38,6 +38,9 @@
 	"block-toolmold-raw-ring": "Форма для 16-ти кольчужных звеньев (необож.)",
 	"block-toolmold-burned-ring": "Форма для 16-ти кольчужных звеньев",
 	"blockdesc-toolmold-burned-ring": "Для тех, кто ленится размахивать молотом",
+
+	"block-toolmold-chuteburned": "Форма для 4-х желобов",
+	"blockdesc-toolmold-chuteburned": "Для тех, кто ленится размахивать молотом",
 	
 	"item-singlechain-copper": "Кольчужное звено из меди",
 	"item-singlechain-tinbronze": "Кольчужное звено из оловянной бронзы",
