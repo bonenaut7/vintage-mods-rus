@@ -41,6 +41,14 @@
 
 	"block-toolmold-chuteburned": "Форма для 4-х желобов",
 	"blockdesc-toolmold-chuteburned": "Для тех, кто ленится размахивать молотом",
+
+	"block-toolmold-raw-shears": "Форма для ножниц (необож.)",
+	"block-toolmold-burned-shears": "Форма для ножниц",
+	"blockdesc-toolmold-burned-shears": "Для тех, кто ленится размахивать молотом",
+
+	"block-toolmold-raw-sawblade": "Форма для лезвия пилы (необож.)",
+	"block-toolmold-burned-sawblade": "Форма для лезвия пилы",
+	"blockdesc-toolmold-burned-sawblade": "Для тех, кто ленится размахивать молотом",
 	
 	"item-singlechain-copper": "Кольчужное звено из меди",
 	"item-singlechain-tinbronze": "Кольчужное звено из оловянной бронзы",
